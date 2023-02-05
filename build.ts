@@ -2,7 +2,7 @@ import fs from 'fs-extra';
 import child_process from 'child_process';
 import path from 'path';
 
-const name: string = "WindWakerOnline";
+const name: string = "WindWakerHideAndSeek";
 
 function remove_nightly_tag() {
     try {

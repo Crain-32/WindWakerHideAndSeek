@@ -2,3 +2,7 @@
 # yarn lockfile v1
 
 
+"@types/node@^18.11.19":
+  "integrity" "sha512-YUgMWAQBWLObABqrvx8qKO1enAvBUdjZOAWQ5grBAkp5LQv45jBvYKZ3oFS9iKRCQyFjqw6iuEa1vmFqtxYLZw=="
+  "resolved" "https://registry.npmjs.org/@types/node/-/node-18.11.19.tgz"
+  "version" "18.11.19"
